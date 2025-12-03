@@ -31,4 +31,6 @@ You should also check my [IoT Experiments](https://link-a-repo)
 
 > [!NOTE]
 > Open to work on **Next.js** and **Embedded Systems** projects in Lima.
-> Contact me at: tu-email@gmail.com
+> Contact me at: mocaicojhan@gmail.com
+---
+![Tus Estadísticas](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
