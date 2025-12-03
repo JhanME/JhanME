@@ -23,8 +23,8 @@ Currently building **FoneKids** 🎮, an interactive educational platform using 
 
 ### Built:
 
-* [FoneKids](https://link-a-tu-repo) - Educational web platform with avatars
-* [Air Guardian](https://link-a-tu-repo) - IoT Environmental monitor with ESP32
+* [FoneKids](https://github.com/JhanME/FoneKids) - Educational web platform with avatars
+* [Air Guardian](https://github.com/aquinoestoyxd/Proyecto_de_Ingenieria_1) - IoT Environmental monitor with ESP32
 * [Finance Bot](https://link-a-tu-repo) - WhatsApp bot for tracking expenses
 
 You should also check my [IoT Experiments](https://link-a-repo)
@@ -32,5 +32,3 @@ You should also check my [IoT Experiments](https://link-a-repo)
 > [!NOTE]
 > Open to work on **Next.js** and **Embedded Systems** projects in Lima.
 > Contact me at: mocaicojhan@gmail.com
----
-![Tus Estadísticas](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
