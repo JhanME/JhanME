@@ -25,9 +25,9 @@ Currently building **FoneKids** 🎮, an interactive educational platform using 
 
 * [FoneKids](https://github.com/JhanME/FoneKids) - Educational web platform with avatars
 * [Air Guardian](https://github.com/aquinoestoyxd/Proyecto_de_Ingenieria_1) - IoT Environmental monitor with ESP32
-* [Finance Bot](https://link-a-tu-repo) - WhatsApp bot for tracking expenses
+* [Music Interpreter](https://github.com/JhanME/algoritmia-music-interpreter) - WhatsApp bot for tracking expenses
 
-You should also check my [IoT Experiments](https://link-a-repo)
+You should also check my [Experiments](https://algoritmia-music-interpreter.onrender.com/)
 
 > [!NOTE]
 > Open to work on **Next.js** and **Embedded Systems** projects in Lima.
