@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 
 I'm **Jhan Mocaico**, a software engineer building products for education and IoT 🚀
 
-Currently building **FoneKids** 🎮, an interactive educational platform using Next.js.
+Currently building **Mentori**, an interactive educational platform using Next.js.
 
 ### Built:
 
 * [FoneKids](https://github.com/JhanME/FoneKids) - Educational web platform with avatars
 * [Air Guardian](https://github.com/aquinoestoyxd/Proyecto_de_Ingenieria_1) - IoT Environmental monitor with ESP32
-* [Music Interpreter](https://github.com/JhanME/algoritmia-music-interpreter) - WhatsApp bot for tracking expenses
+* [Music Interpreter](https://github.com/JhanME/algoritmia-music-interpreter) - Converts code to music
 
 You should also check my [Experiments](https://algoritmia-music-interpreter.onrender.com/)
 
