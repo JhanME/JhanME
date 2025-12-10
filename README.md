@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hello there!
 
-I'm **Jhan Mocaico**, a software engineer building products for education and IoT 🚀
+I'm **Jhan Mocaico**, a software engineer building products for education and IoT.
 
 Currently building **Mentori**, an interactive educational platform using Next.js.
 
