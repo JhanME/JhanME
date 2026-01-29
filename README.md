@@ -23,7 +23,7 @@ Currently building **Mentori**, an interactive educational platform using Next.j
 
 ### Built:
 
-* [FoneKids](https://github.com/JhanME/FoneKids) - Educational web platform with avatars
+* [Hidden Clauses](https://www.hiddenclauses.org/) - Educational web platform with avatars
 * [Air Guardian](https://github.com/aquinoestoyxd/Proyecto_de_Ingenieria_1) - IoT Environmental monitor with ESP32
 * [Music Interpreter](https://github.com/JhanME/algoritmia-music-interpreter) - Converts code to music
 
