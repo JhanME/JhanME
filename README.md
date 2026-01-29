@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello there!
+# Hello there!
 
 I'm **Jhan Mocaico**, a software engineer building products for education and IoT.
 
