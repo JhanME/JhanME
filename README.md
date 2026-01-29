@@ -23,11 +23,11 @@ Currently building **Mentori**, an interactive educational platform using Next.j
 
 ### Built:
 
-* [Hidden Clauses](https://www.hiddenclauses.org/) - Educational web platform with avatars
-* [Air Guardian](https://github.com/aquinoestoyxd/Proyecto_de_Ingenieria_1) - IoT Environmental monitor with ESP32
+* [Hidden Clauses](https://www.hiddenclauses.org/) -AI-powered web platform for analyzing contracts and detecting potentially harmful or hidden clauses.
+* [FoneKids](https://github.com/JhanME/FoneKids) - Educational web platform with avatars
 * [Music Interpreter](https://github.com/JhanME/algoritmia-music-interpreter) - Converts code to music
 
-You should also check my [Experiments](https://algoritmia-music-interpreter.onrender.com/)
+You should also check my [Experiments](https://www.hiddenclauses.org/)
 
 > [!NOTE]
 > Open to work on **Next.js** and **Embedded Systems** projects in Lima.
