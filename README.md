@@ -19,16 +19,16 @@ Here are some ideas to get you started:
 
 I'm **Jhan Mocaico**, a software engineer building products for education and IoT.
 
-Currently building **Mentori**, an interactive educational platform using Next.js.
+Currently building **KIDIA**, an interactive educational platform using Next.js.
 
 ### Built:
 
 * [Hidden Clauses](https://www.hiddenclauses.org/) -AI-powered web platform for analyzing contracts and detecting potentially harmful or hidden clauses.
-* [FoneKids](https://github.com/JhanME/FoneKids) - Educational web platform with avatars
+* [AmyCare](https://github.com/JhanME/amycare-health-agent) - Amy is an AI assistant on WhatsApp that supports oncology patients with appointments, medication reminders, nutrition, and emotional support.
 * [Music Interpreter](https://github.com/JhanME/algoritmia-music-interpreter) - Converts code to music
 
 You should also check my [Experiments](https://www.hiddenclauses.org/)
 
 > [!NOTE]
 > Open to work on **Next.js** and **Embedded Systems** projects in Lima.
-> Contact me at: mocaicojhan@gmail.com
+> Contact me at: hi@mocaico.dev
